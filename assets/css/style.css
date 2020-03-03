@@ -1,3 +1,10 @@
-.container {
-    background-color: yellowgreen;
+footer {
+    background-color: gray;
+    border-top: 8px solid #4aaaa5;
+    font-size: 10px;
+    margin-top: 100px;
+}
+
+footer p {
+    margin-top: 15px;
 }
