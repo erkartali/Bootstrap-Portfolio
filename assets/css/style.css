@@ -1,3 +1,27 @@
+body {
+    background-image: url(/assets/images/webb.png);
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+.container {
+    background-color: white;
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+.header-background {
+    background-color: white;
+}
+
+.header hr {
+    border-top: 2px solid gray;
+}
+
 footer {
     background-color: gray;
     border-top: 8px solid #4aaaa5;
@@ -7,4 +31,14 @@ footer {
 
 footer p {
     margin-top: 15px;
+    color: #ffffff;
+}
+
+.width-wrapper img {
+    width: 300;
+    height: 250;
+}
+
+.card-deck .card {
+    border: none;
 }
