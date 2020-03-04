@@ -46,6 +46,10 @@ h2 {
     border-top: 2px solid gray;
 }
 
+.card {
+    margin: 30px 0;
+}
+
 footer {
     background-color: gray;
     border-top: 8px solid #4aaaa5;
